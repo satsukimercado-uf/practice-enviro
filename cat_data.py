@@ -9,7 +9,7 @@ df = pd.DataFrame([
 ])
 
 # label columns of df
-df.columns = ['color', 'size'. 'price', 'classlbl']
+df.columns = ['color', 'size', 'price', 'classlbl']
 
 # print df
 df
